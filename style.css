@@ -1,6 +1,7 @@
 * {
   background: white;
-  color: black;
+  color: white;
+  -webkit-text-stroke: 3px black;
 }
 
 body {
